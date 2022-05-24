@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/University/3_course/6_semester/RIP/SimpleWeather/app/src/main/res/layout/activity_list.xml" value="0.19202898550724637" />
+        <entry key="..\:/University/3_course/6_semester/RIP/SimpleWeather/app/src/main/res/layout/activity_personal_account.xml" value="0.16983695652173914" />
+        <entry key="..\:/University/3_course/6_semester/RIP/SimpleWeather/app/src/main/res/layout/activity_weather.xml" value="0.16983695652173914" />
+        <entry key="..\:/University/3_course/6_semester/RIP/SimpleWeather/app/src/main/res/layout/fragment_weather.xml" value="0.16983695652173914" />
+        <entry key="..\:/University/3_course/6_semester/RIP/SimpleWeather/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/3_course/6_semester/RIP/SimpleWeather/app/src/main/res/menu/weather.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21743589743589745" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21743589743589745" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout-large/fragment_weather.xml" value="0.1" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/activity_list.xml" value="0.1625" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/activity_personal_account.xml" value="0.33" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/activity_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/activity_weather.xml" value="0.25" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/database_activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/fragment_weather.xml" value="0.33" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/layout/list_item.xml" value="0.75" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/KP/AndroidStudioProjects/SimpleWeather/app/src/main/res/menu/weather.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
